@@ -3,50 +3,103 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>1xBet Global</title>
+  <meta name="description" content="Join 1xBet Global - The ultimate international platform for sports betting, gaming, and casino entertainment. Multi-language and affiliate integrated.">
+  <meta name="keywords" content="1xBet, Sports Betting, Casino, Gaming, Affiliate, Global, Worldwide, Bonus, Live Betting">
+  <meta name="author" content="1xBet Affiliate Network">
+  
+  <!-- Open Graph for Facebook/LinkedIn -->
+  <meta property="og:title" content="1xBet Global – Play & Win Worldwide" />
+  <meta property="og:description" content="Join from anywhere in the world and earn big! Affiliate-integrated platform." />
+  <meta property="og:image" content="https://1xbet.com/apple-touch-icon.png" />
+  <meta property="og:url" content="https://1xbet.com/?ref=wyf3300" />
+  <meta property="og:type" content="website" />
+  
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="1xBet Global – Play & Win Worldwide">
+  <meta name="twitter:description" content="International sports betting & casino platform with affiliate integration.">
+  <meta name="twitter:image" content="https://1xbet.com/apple-touch-icon.png">
+
+  <title>1xBet Global – Play & Win Worldwide</title>
   <style>
-    * {
-      margin: 0;
-      padding: 0;
-      box-sizing: border-box;
-    }
+    * { margin: 0; padding: 0; box-sizing: border-box; }
     body {
       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
       background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
-      color: #ffffff;
+      color: #fff;
       text-align: center;
       padding: 40px 20px;
     }
     h1 {
-      font-size: 2.5em;
+      font-size: 36px;
       margin-bottom: 20px;
+      font-weight: bold;
     }
     p {
-      font-size: 1.1em;
-      line-height: 1.6;
+      font-size: 18px;
       max-width: 700px;
-      margin: 0 auto 30px auto;
+      margin: auto;
+      line-height: 1.7;
     }
     .btn {
       display: inline-block;
-      margin-top: 20px;
-      padding: 12px 25px;
+      margin-top: 30px;
+      padding: 14px 30px;
       background-color: #1dbf73;
       border: none;
       border-radius: 8px;
       color: white;
-      font-size: 1em;
+      font-size: 20px;
+      font-weight: bold;
       text-decoration: none;
-      transition: background-color 0.3s ease;
+      transition: background 0.3s ease;
     }
     .btn:hover {
-      background-color: #17a864;
+      background-color: #17a765;
+    }
+    footer {
+      margin-top: 60px;
+      font-size: 14px;
+      opacity: 0.6;
+    }
+    .language {
+      margin-top: 30px;
+      font-size: 16px;
+    }
+    .language a {
+      color: #1dbf73;
+      text-decoration: none;
+      margin: 0 6px;
+    }
+    .language a:hover {
+      text-decoration: underline;
     }
   </style>
 </head>
 <body>
   <h1>Welcome to 1xBet Global</h1>
-  <p>This is an affiliate-integrated platform for sports betting, gaming, and casino fans around the world.</p>
-  <a class="btn" href="#">Join Now</a>
+  <p>
+    This platform is built for international sports fans, casino players, and online gaming enthusiasts. Join millions of users worldwide through our powerful affiliate-integrated system and start earning today!
+  </p>
+
+  <a class="btn" href="https://1xbet.com/?ref=wyf3300" target="_blank" rel="noopener noreferrer">🌍 Join Now</a>
+
+  <div class="language">
+    🌐 Choose your language:<br/><br/>
+    <a href="https://1xbet.com/?ref=wyf3300&lang=en">English</a> |
+    <a href="https://1xbet.com/?ref=wyf3300&lang=es">Español</a> |
+    <a href="https://1xbet.com/?ref=wyf3300&lang=fr">Français</a> |
+    <a href="https://1xbet.com/?ref=wyf3300&lang=de">Deutsch</a> |
+    <a href="https://1xbet.com/?ref=wyf3300&lang=pt">Português</a> |
+    <a href="https://1xbet.com/?ref=wyf3300&lang=bn">বাংলা</a> |
+    <a href="https://1xbet.com/?ref=wyf3300&lang=ru">Русский</a> |
+    <a href="https://1xbet.com/?ref=wyf3300&lang=zh">中文</a> |
+    <a href="https://1xbet.com/?ref=wyf3300&lang=hi">हिन्दी</a> |
+    <a href="https://1xbet.com/?ref=wyf3300&lang=tr">Türkçe</a>
+  </div>
+
+  <footer>
+    © 2025 – Powered by 1xBet Global Affiliate Network
+  </footer>
 </body>
-  </html>
+</html>
